@@ -1,0 +1,39 @@
+<style> 
+  
+ 
+
+</style>
+
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+              
+             button{  
+      padding: 9px;
+      font-family: system-ui, 'sans-serif';
+      background: #6EE7B7;
+      font-weight: 900;
+      border: none;
+      padding-right: 20px;
+      padding-left: 20px;
+      border-radius: 20px
+  }  
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
