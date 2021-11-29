@@ -5,8 +5,13 @@
 
 
 <div align="center">
-    <img src="./example.svg" width="400" height="400" alt="css-in-readme">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
 </div>
+
 
 
 The main goal of MarkDown is to be easily written and easily read. It uses "plain text" formatting and can be converted to HTML. The most common use case I've come across to use Markdown is for ReadMe files, used, for example, for Github repos. Markdown can also be used to create email.
