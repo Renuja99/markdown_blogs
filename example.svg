@@ -5,6 +5,8 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@600&display=swap');
+				
 				@keyframes rotate {
 					0% {
 						transform: rotate(3deg);
@@ -30,9 +32,9 @@
         
                     			button{  
 					      padding: 9px;
-					      font-family: system-ui, 'sans-serif';
+					      font-family: 'M PLUS 1 Code', 'sans-serif';
 					      background: #6EE7B7;
-					      font-weight: 900;
+					      font-weight: 700;
 					      font-size: 20px;
 					      border: none;
 					      padding-right: 20px;
