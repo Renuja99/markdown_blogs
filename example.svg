@@ -32,9 +32,9 @@
         
                     			button{  
 					      padding: 9px;
-					      font-family: 'M PLUS 1 Code', 'sans-serif';
+					      font-family: 'M PLUS 1 Code', sans-serif;
 					      background: #6EE7B7;
-					      font-weight: 700;
+					      font-weight: 600;
 					      font-size: 20px;
 					      border: none;
 					      padding-right: 20px;
@@ -56,16 +56,7 @@
 				}
 
 				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+					font-family:'M PLUS 1 Code', sans-serif;
 					display: flex;
 					flex-direction: column;
 					align-items: center;
