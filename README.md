@@ -1,5 +1,10 @@
 # Markdown Starter Worksheet
 
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@600&display=swap" rel="stylesheet">
+</head>
 <button> Markdown cheatsheet </button>
 
 
